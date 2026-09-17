@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #f4896e;
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+.number {
+    font-size: 24px;
+}
+
+#evens {
+    background-color:#8af66c;
+    font-weight: bold;
+}
